@@ -11,7 +11,7 @@ This database specification is to employ a more efficient way to securely and st
 This database management system will focus on one section of the hospital, which is the Dental Department.
 
 # Group Members
-1. Amber Beaton
+1. Amber Beaton (Leader)
 2. Ronaldo Springer
 3. Jason Jacobs
 4. Feliciann Elliot
