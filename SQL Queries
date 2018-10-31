@@ -1,0 +1,7 @@
+Queries for data retrieval (Read): {
+	SELECT * from Patient;
+	SELECT * from Dentist;
+	SELECT * from Teeth;
+	SELECT * FROM Dentist WHERE Dentist ID = 3;
+	SELECT * FROM Patient WHERE Sex = 'M';
+	SELECT * FROM Patient WHERE First Name LIKE 'A%'; }
