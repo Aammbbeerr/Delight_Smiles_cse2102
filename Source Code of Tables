@@ -1,4 +1,4 @@
--- Tables
+--Tables
 
 
 CREATE DATABASE IF NOT EXISTS lcd dental record;
