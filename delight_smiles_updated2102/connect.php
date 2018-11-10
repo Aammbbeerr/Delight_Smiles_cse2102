@@ -1,3 +1,3 @@
 <?php
-$con = mysqli_connect('localhost', 'root', '', 'lcd dental record') or die("Connection Failed");
+$con = mysqli_connect('localhost', 'root', '', 'lcd_dental_record') or die("Connection Failed");
 ?>
