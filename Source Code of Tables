@@ -1,4 +1,9 @@
-Tables:
+-- Tables
+
+
+CREATE DATABASE IF NOT EXISTS lcd dental record;
+
+USE lcd dental record;
 
 CREATE TABLE ` lcd dental record `.`Patient` ( 
 	`Patient ID` INT(7) NOT NULL AUTO_INCREMENT PRIMARY KEY,
