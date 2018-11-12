@@ -1,4 +1,4 @@
-<img src="http://www.femalefirst.co.uk/image-library/land/500/h/healthy-smile-teeth_10,11.jpg" alt="smiles">
+<img src="http://www.femalefirst.co.uk/image-library/land/500/h/healthy-smile-teeth_10,11.jpg" alt="smiles" height="52" width="62">
 
 # Delight Smiles
 
