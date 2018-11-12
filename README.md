@@ -1,3 +1,5 @@
+<img src="http://www.femalefirst.co.uk/image-library/land/500/h/healthy-smile-teeth_10,11.jpg" alt="smiles">
+
 # Delight Smiles
 
 # Problem Statement
