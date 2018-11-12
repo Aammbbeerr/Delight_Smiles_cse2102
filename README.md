@@ -10,9 +10,18 @@ This database specification is to employ a more efficient way to securely and st
 # Scope
 This database management system will focus on one section of the hospital, which is the Dental Department.
 
-# Group Members
-1. Amber Beaton (Leader)
-2. Ronaldo Springer
-3. Jason Jacobs
-4. Feliciann Elliot
-5. Kim Shing Chong.
+# Group Profile
+Group Members | Position 
+------------- | ---------
+Amber Beaton | Leader
+Ronaldo Springer | UI Developer
+Jason Jacobs |  QA Leader
+Feliciann Elliot | Back-End Developer
+Kim Shing Chong | UI Developer
+
+# Installation Steps
+1) Database    
+   * run the following command:
+     mysql -u root -p < 'data/database_creation.sql'
+2) Application 
+   * clone the repository to the www folder in wamp
