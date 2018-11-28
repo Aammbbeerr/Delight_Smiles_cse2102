@@ -1,8 +1,8 @@
 --Queries for data retrieval (Read):
-	SELECT * FROM Patient;
-	SELECT * FROM Dentist;
-	SELECT * FROM Teeth;
-	SELECT * FROM Dentist WHERE Dentist ID = 3;
-	SELECT * FROM Patient WHERE Sex = 'M';
-	SELECT * FROM Patient WHERE First Name LIKE 'A%';
-	SELECT COUNT(1) FROM Patient; 
+	SELECT * FROM patient;
+	SELECT * FROM dentist;
+	SELECT * FROM teeth;
+	SELECT * FROM dentist WHERE Dentist_ID = 3;
+	SELECT * FROM patient WHERE Sex = 'M';
+	SELECT * FROM patient WHERE First_Name LIKE 'A%';
+	SELECT COUNT(1) FROM patient; 
